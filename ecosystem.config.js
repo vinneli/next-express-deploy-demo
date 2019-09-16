@@ -23,7 +23,7 @@ module.exports = {
       user : 'root1',
       host : '192.168.126.25',
       ref  : 'origin/master',
-      repo : 'git@github.com:repo.git',
+      repo : 'git@github.com:vanni-li/next-express-deploy-demo.git',
       path : '/usr/local/sandai/next-express-demo',
       'post-deploy' : 'npm install && npm run pm2:start',
       env: {
