@@ -10,7 +10,7 @@ export default () => (
     </li>
     <li>
       <Link href='/a' as='/b'>
-        <a>b</a>
+        <a>测试</a>
       </Link>
     </li>
     <li>
