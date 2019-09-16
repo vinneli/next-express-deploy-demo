@@ -5,7 +5,7 @@ export default () => (
   <ul>
     <li>
       <Link href='/b' as='/a'>
-        <a>首页</a>
+        <a>首页-test</a>
       </Link>
     </li>
     <li>
